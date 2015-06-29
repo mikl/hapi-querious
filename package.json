@@ -1,6 +1,6 @@
 {
   "name": "hapi-querious",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Querious plugin for Hapi.js.",
   "main": "index.js",
   "scripts": {
@@ -21,10 +21,8 @@
     "url": "https://github.com/mikl/hapi-querious/issues"
   },
   "dependencies": {
-    "hoek": "^2.10.0"
-  },
-  "peerDependencies": {
-    "querious": "^0.2.0"
+    "hoek": "^2.10.0",
+    "querious": "^0.3.0"
   },
   "homepage": "https://github.com/mikl/hapi-querious"
 }
